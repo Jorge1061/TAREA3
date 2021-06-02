@@ -1,0 +1,90 @@
+body{
+    
+    background-image: url(../img/Fondo_Bandera.jpg);
+    background-size: "contain";
+}
+
+.Encabezado{
+    padding-top: 25px;
+    width: 19%;
+    float:left;
+    text-align: center;
+
+}
+
+h1{
+    float: right;
+    padding-right: 5%;
+    width: 50%;
+    padding-top: 30px;
+    text-align: center;
+    
+}
+
+#main{
+    padding-right: 5%;
+     
+    float: right;
+    width: 50%;
+    text-align: center;
+    
+}
+
+aside{
+    padding-top: 35px;
+    width:40%;
+    float: left;
+    padding-left: 5%;
+}
+
+aside > img{
+    width: 45%;
+}
+
+
+
+caption{
+    text-align: center;
+    padding-top: 30px; 
+}
+
+table{
+    margin:auto;
+}
+
+footer{
+    width: 100%;
+}
+
+audio{
+    padding-top: 50px;
+}
+
+#audioCarlos{
+    padding-top: 0px;
+}
+
+footer{
+    padding-top: 2000px;
+}
+#DerechosAutor{
+    padding-top: 850px;
+    text-align: center;
+}
+#DerechosAutorFabricio{
+    padding-top: 950px;
+    text-align: center;
+}
+
+#LineaVertical {
+    width: 5%;
+    border-right: 2px solid #9d0c1b;
+}
+
+#MoreSpace{
+    padding-top: 350px;
+}
+
+ul{
+    text-align: center;
+}

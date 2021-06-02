@@ -1,0 +1,54 @@
+body{
+    
+    background-image: url(../img/Fondo_Bandera.jpg);
+    background-size: "contain";
+}
+
+.Encabezado{
+    padding-top: 25px;
+    width: 19%;
+    float:left;
+    text-align: center;
+
+}
+
+h1{
+    padding-top: 100px;
+    text-align: center;
+    
+}
+
+#main{
+    padding-right: 5%;
+    text-align: center;
+    
+}
+
+table{
+    width: 100%;
+    text-align: center;
+    margin:auto;
+
+}
+
+.img{
+    padding-top: 1%;
+}
+
+.video{
+    text-align: center;
+}
+
+#video{
+    padding-top: 50px; 
+}
+
+footer{
+    width: 100%;
+}
+
+#DerechosAutor{
+    padding-top: 20px;
+    text-align: center;
+}
+

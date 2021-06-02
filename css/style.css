@@ -1,0 +1,76 @@
+body{
+    
+    background-image: url(../img/Fondo_Bandera.jpg);
+    background-size: "contain";
+}
+
+.Encabezado{
+    padding-top: 25px;
+    width: 19%;
+    float:left;
+    text-align: center;
+
+}
+
+h1{
+    float: right;
+    padding-right: 5%;
+    width: 70%;
+    padding-top: 30px;
+    text-align: center;
+    
+}
+
+#pantallaFull{
+    width: 100%;
+}
+
+#main{
+    padding-right: 5%;
+     
+    float: right;
+    width: 70%;
+    text-align: center;
+    
+}
+
+aside{
+    width:20%;
+    float: left;
+    padding-left: 5%;
+}
+
+#visitar{
+    padding-top: 110px;
+}
+
+caption{
+    text-align: center;
+    padding-top: 30px; 
+}
+
+table{
+    margin:auto;
+}
+
+.img{
+    padding-top: 1%;
+}
+
+.video{
+    text-align: center;
+}
+
+#video{
+    padding-top: 50px; 
+}
+
+footer{
+    width: 100%;
+}
+
+#DerechosAutor{
+    padding-top: 20px;
+    text-align: center;
+}
+
